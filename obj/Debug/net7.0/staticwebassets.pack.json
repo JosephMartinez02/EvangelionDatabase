@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA00.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVA00.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA01.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVA01.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA02.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVA02.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\Pilots\\Asuka.png",
+      "PackagePath": "staticwebassets\\img\\Pilots\\Asuka.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\Pilots\\Rei.png",
+      "PackagePath": "staticwebassets\\img\\Pilots\\Rei.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\Pilots\\Shinji.png",
+      "PackagePath": "staticwebassets\\img\\Pilots\\Shinji.png"
+    },
+    {
       "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

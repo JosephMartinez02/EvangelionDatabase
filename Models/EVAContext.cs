@@ -11,10 +11,11 @@ namespace EvangelionDatabase.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<PilotEvangelions>().HasKey(e => new {e.EVAID, e.PilotID});
+            modelBuilder.Entity<PilotEvangelions>().HasKey(e => new {e.EvangelionID, e.PilotID});
         }
 
-        public DbSet<Pilot> Pilots {get; set;} = default!;
-        public DbSet<Evangelion> Evangelions {get; set;} = default!;
-    }
+        public DbSet<Pilot> Pilot {get; set;} = default!;
+        public DbSet<Evangelion> Evangelion {get; set;} = default!;
+        public DbSet<PilotEvangelions> PilotEvangelion {get; set;} = default!;
+        }
 }
