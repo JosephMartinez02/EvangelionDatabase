@@ -66,9 +66,9 @@ namespace EvangelionDatabase.Models
                 context.AddRange(pilots);
 
                 List<PilotEvangelions> assignedEVA = new List<PilotEvangelions>{
-                    new PilotEvangelions {EvangelionID = 0, PilotID = 0},
                     new PilotEvangelions {EvangelionID = 1, PilotID = 1},
-                    new PilotEvangelions {EvangelionID = 2, PilotID = 2}
+                    new PilotEvangelions {EvangelionID = 2, PilotID = 2},
+                    new PilotEvangelions {EvangelionID = 3, PilotID = 3}
                 };
                 context.AddRange(assignedEVA);
 

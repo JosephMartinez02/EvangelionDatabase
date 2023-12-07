@@ -4,7 +4,7 @@ namespace EvangelionDatabase.Models
 {
     public class EVAContext : DbContext
     {
-        public EVAContext (DbContextOptions<EVAContext> options)
+        public EVAContext(DbContextOptions<EVAContext> options)
             :base(options)
             {
             }
