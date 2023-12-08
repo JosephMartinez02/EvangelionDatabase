@@ -30,9 +30,6 @@ namespace EvangelionDatabase.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<int>("EVAUnit")
-                        .HasColumnType("INTEGER");
-
                     b.Property<string>("Picture")
                         .IsRequired()
                         .HasColumnType("TEXT");

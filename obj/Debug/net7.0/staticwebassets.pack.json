@@ -13,20 +13,88 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\fonts\\Matisse Pro EB.otf",
+      "PackagePath": "staticwebassets\\fonts\\Matisse Pro EB.otf"
+    },
+    {
       "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA00.png",
       "PackagePath": "staticwebassets\\img\\EVA\\EVA00.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA00Proto.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVA00Proto.png"
     },
     {
       "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA01.png",
       "PackagePath": "staticwebassets\\img\\EVA\\EVA01.png"
     },
     {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA01Test.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVA01Test.png"
+    },
+    {
       "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA02.png",
       "PackagePath": "staticwebassets\\img\\EVA\\EVA02.png"
     },
     {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA02Product.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVA02Product.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA03.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVA03.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA03Product.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVA03Product.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA04.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVA04.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA04Test.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVA04Test.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA05Pro.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVA05Pro.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVA08Alpha.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVA08Alpha.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVAMark04.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVAMark04.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\EVAMark04B.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\EVAMark04B.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\EVA\\MassProduct.png",
+      "PackagePath": "staticwebassets\\img\\EVA\\MassProduct.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\NERV.jpg",
+      "PackagePath": "staticwebassets\\img\\NERV.jpg"
+    },
+    {
       "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\Pilots\\Asuka.png",
       "PackagePath": "staticwebassets\\img\\Pilots\\Asuka.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\Pilots\\Dummy.png",
+      "PackagePath": "staticwebassets\\img\\Pilots\\Dummy.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\Pilots\\Mari.png",
+      "PackagePath": "staticwebassets\\img\\Pilots\\Mari.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\Pilots\\Missing.jpeg",
+      "PackagePath": "staticwebassets\\img\\Pilots\\Missing.jpeg"
     },
     {
       "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\Pilots\\Rei.png",
@@ -35,6 +103,14 @@
     {
       "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\Pilots\\Shinji.png",
       "PackagePath": "staticwebassets\\img\\Pilots\\Shinji.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\Pilots\\Toji.png",
+      "PackagePath": "staticwebassets\\img\\Pilots\\Toji.png"
+    },
+    {
+      "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\img\\Warning.jpg",
+      "PackagePath": "staticwebassets\\img\\Warning.jpg"
     },
     {
       "Id": "C:\\Users\\leona\\Desktop\\CIDM 3312\\EvangelionDatabase\\wwwroot\\js\\site.js",

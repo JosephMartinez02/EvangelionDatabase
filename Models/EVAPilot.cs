@@ -22,6 +22,7 @@ namespace EvangelionDatabase.Models
     {
         public int PilotID {get; set;}
         public int EvangelionID {get; set;}
+        [Display(Name = "Pilot(s)")]
         public Pilot Pilot {get; set;} = default!;
         public Evangelion Evangelion {get; set;} = default!;
     }

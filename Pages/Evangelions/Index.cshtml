@@ -14,16 +14,13 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Evangelion[0].EVAUnit)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.Evangelion[0].EVAName)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Evangelion[0].Description)
             </th>
             <th>
-                @Html.DisplayName("Pilot")
+                @Html.DisplayName("Pilot(s)")
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Evangelion[0].Picture)
@@ -35,16 +32,13 @@
 @foreach (var item in Model.Evangelion) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.EVAUnit)
-            </td>
-            <td>
                 @Html.DisplayFor(modelItem => item.EVAName)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Description)
             </td>
             <td>
-                @foreach (var pilot in item.PilotEvangelions)
+                @foreach (var pilot in item.PilotEvangelions!)
                 {
                     @pilot.Pilot.FirstName <br/>
                     @pilot.Pilot.LastName <br/>

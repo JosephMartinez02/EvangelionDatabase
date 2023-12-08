@@ -24,7 +24,7 @@ namespace EvangelionDatabase.Pages.Evangelions
         {
             if (_context.Evangelion != null)
             {
-                Evangelion = await _context.Evangelion.Include(p => p.PilotEvangelions).ThenInclude(pe => pe.Pilot).ToListAsync();
+                Evangelion = await _context.Evangelion.Include(p => p.PilotEvangelions!).ThenInclude(pe => pe.Pilot).ToListAsync();
             }
         }
     }
