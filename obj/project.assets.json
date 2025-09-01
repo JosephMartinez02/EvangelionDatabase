@@ -11540,11 +11540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leona\\Desktop\\Random\\CIDM 3312\\EvangelionDatabase\\EvangelionDatabase.csproj",
+      "projectUniqueName": "C:\\Users\\leona\\Desktop\\portfolio\\Evangelion Database\\EvangelionDatabase.csproj",
       "projectName": "EvangelionDatabase",
-      "projectPath": "C:\\Users\\leona\\Desktop\\Random\\CIDM 3312\\EvangelionDatabase\\EvangelionDatabase.csproj",
+      "projectPath": "C:\\Users\\leona\\Desktop\\portfolio\\Evangelion Database\\EvangelionDatabase.csproj",
       "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leona\\Desktop\\Random\\CIDM 3312\\EvangelionDatabase\\obj\\",
+      "outputPath": "C:\\Users\\leona\\Desktop\\portfolio\\Evangelion Database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config"
