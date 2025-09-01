@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvangelionDatabase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67ccc3e0ad8f3e9e57bc69e8516b8597b391ebd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvangelionDatabase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvangelionDatabase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
